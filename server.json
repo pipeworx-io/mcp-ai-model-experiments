@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/ai-model-experiments",
+  "title": "Ai Model Experiments",
+  "description": "AI Model Experiments MCP ('Model Lab') — run the same prompts across many",
+  "version": "0.1.0",
+  "websiteUrl": "https://pipeworx.io/packs/ai-model-experiments",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-ai-model-experiments",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/ai-model-experiments/mcp"
+    }
+  ]
+}
