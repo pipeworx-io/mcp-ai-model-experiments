@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ai-model-experiments",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AI Model Experiments MCP ('Model Lab') — run the same prompts across many",
   "type": "module",
   "main": "src/index.ts",
@@ -22,6 +22,11 @@
     "tsx": "^4.19.0"
   },
   "devDependencies": {
-    "typescript": "^5.7.0"
+    "typescript": "^5.9.3",
+    "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-8aca0a04baf121383b2dc616324d3aa61c7d8ba5eb1f1c760a8f2a64dd818d5e",
+    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
   }
 }
