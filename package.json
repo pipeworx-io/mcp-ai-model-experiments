@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ai-model-experiments",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "AI Model Experiments MCP ('Model Lab') — run the same prompts across many AI models simultaneously and compare outputs, latency, and cost.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-82f2f1ad94bf534fadae44ab451b8fb045a2916ffd57d501ed62a532a24fbac6",
-    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
+    "sourceHash": "v1-84278ae090bde69344ad81ec6785d463e2989454efb1d850898e4db0fa207f17",
+    "sourceCommit": "71f5325b13bb0ea0de2f0f7207885962ec91a484"
   }
 }
